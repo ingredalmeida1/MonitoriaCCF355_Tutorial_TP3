@@ -1,0 +1,16 @@
+__pycache__/  
+*.pyc  
+*.pyo  
+venv/  
+env/  
+*.log  
+*.tmp  
+/server/__pycache__/  
+/client/__pycache__/  
+/interface/__pycache__/  
+.dockerignore  
+*.tar  
+*.container  
+*.qrc  
+*.ui  
+.env  
